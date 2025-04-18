@@ -43,7 +43,8 @@ python Style_Transfer.py
 ![Screenshot 2025-04-18 114027](https://github.com/user-attachments/assets/42d5b15b-d9bd-4bc8-88e8-996f541b9d94)
 
 
-![Screenshot 2025-04-18 114542](https://github.com/user-attachments/assets/43418194-6c99-4f8f-99a0-670a125ef826)
+![Screenshot 2025-04-18 114513](https://github.com/user-attachments/assets/4587042b-42d1-43be-8f30-22ec80cdbe0e)
+
 
 
 ## 📃 License
