@@ -1,6 +1,6 @@
 # 🎨 Neural Style Transfer Desktop App
 
-This is a simple Neural Style Transfer desktop application built using **PyTorch** and **Tkinter**. It allows users to blend the content of one image with the style of another, producing beautiful artistic results.
+This is a simple Neural Style Transfer desktop application built using **PyTorch** and **Streamlit**. It allows users to blend the content of one image with the style of another, producing beautiful artistic results.
 
 ## ✨ Features
 
@@ -8,7 +8,7 @@ This is a simple Neural Style Transfer desktop application built using **PyTorch
 - Apply style transfer using a pre-trained VGG19 model
 - Choose from preset artistic styles (e.g., Ghibli, Van Gogh, etc.)
 - Save the styled output image
-- Clean and easy-to-use GUI with Tkinter
+- Clean and easy-to-use GUI with Streamlit
 - Progress bar and image preview support
 
 ## 🛠 Installation
@@ -16,7 +16,7 @@ This is a simple Neural Style Transfer desktop application built using **PyTorch
 First, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer-gui.git
+git clone https://github.com/bindhum771/neural-style-transfer-gui.git
 cd neural-style-transfer-gui
 pip install -r requirements.txt
 ```
@@ -40,8 +40,11 @@ python Style_Transfer.py
 ```
 
 ## 📸 Screenshots
+![Screenshot 2025-04-18 114027](https://github.com/user-attachments/assets/42d5b15b-d9bd-4bc8-88e8-996f541b9d94)
 
-_Add screenshots of the app UI here for visual reference._
+
+![Screenshot 2025-04-18 114542](https://github.com/user-attachments/assets/43418194-6c99-4f8f-99a0-670a125ef826)
+
 
 ## 📃 License
 
