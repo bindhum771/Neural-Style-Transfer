@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.db
+outputs/
+.env
+.DS_Store
+*.pkl
+*.pth
+.idea/
+.vscode/
